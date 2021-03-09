@@ -10,8 +10,10 @@ ogImage:
   url: '/static/images/me-caos.png'
 ---
 
-## How can i become a skillful develope?
+## The start of my journey
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus
 
- This text will be replaced with somthing else 
+Hello and welcome. My name is Natasha Lysaker. I am a frontend develuper based in Norway, 
+i am currentely studing frontend-development at Noroff - School of Technology and Digital Media, in Oslo.
+
+As a part of my journey in tech and design I have started this website. Here I will eventually share my projects, write about what I learn and what I am interested in. Hope to see you around
