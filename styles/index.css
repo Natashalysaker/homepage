@@ -21,13 +21,17 @@ body{
     background-color: rgba(139, 228, 255, 100%);
 }
 
-.bg-gray-1000{
-    background-color: rgb(45, 43, 43);
+.bg-{
+    background-color: #ecbcfd;
 }
 
 
 .text-blue-1000{
     color: rgba(139, 228, 255, 100%);
+}
+
+.font-rob{
+    font-family: 'Roboto', sans-serif;
 }
 
 
